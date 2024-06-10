@@ -1,1 +1,7 @@
-PDL_Diagnostic_Print KEYWORD1
+diagnostic_print_init     KEYWORD1
+diagnostic_print_deinit   KEYWORD1
+diagnostic_printf         KEYWORD1
+diagnostic_println        KEYWORD1
+diagnostic_print_set_init_func  KEYWORD2
+diagnostic_print_set_deinit_func  KEYWORD2
+diagnostic_print_set_print_func  KEYWORD2
